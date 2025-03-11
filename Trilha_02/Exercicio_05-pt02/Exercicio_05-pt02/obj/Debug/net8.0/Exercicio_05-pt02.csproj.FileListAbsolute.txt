@@ -1,0 +1,14 @@
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\bin\Debug\net8.0\Exercicio_05-pt02.exe
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\bin\Debug\net8.0\Exercicio_05-pt02.deps.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\bin\Debug\net8.0\Exercicio_05-pt02.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\bin\Debug\net8.0\Exercicio_05-pt02.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\bin\Debug\net8.0\Exercicio_05-pt02.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\refint\Exercicio_05-pt02.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\Exercicio_05-pt02.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02\Exercicio_05-pt02\Exercicio_05-pt02\obj\Debug\net8.0\ref\Exercicio_05-pt02.dll

@@ -1,0 +1,14 @@
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\bin\Debug\net8.0\Exercicios_03.exe
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\bin\Debug\net8.0\Exercicios_03.deps.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\bin\Debug\net8.0\Exercicios_03.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\bin\Debug\net8.0\Exercicios_03.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\bin\Debug\net8.0\Exercicios_03.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\refint\Exercicios_03.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\Exercicios_03.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_03\Exercicios_03\Exercicios_03\obj\Debug\net8.0\ref\Exercicios_03.dll

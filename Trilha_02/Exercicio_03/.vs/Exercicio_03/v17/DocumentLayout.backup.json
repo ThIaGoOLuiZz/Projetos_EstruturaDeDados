@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_02-Exercicio01\\Exercicio_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D614A6-762C-4810-BA7A-C6C80BA95ED1}|Exercicio_03\\Exercicio_03.csproj|c:\\users\\thiago.gon\\desktop\\trilha_estruturadedados\\trilha_02-exercicio01\\exercicio_03\\exercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D614A6-762C-4810-BA7A-C6C80BA95ED1}|Exercicio_03\\Exercicio_03.csproj|solutionrelative:exercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D614A6-762C-4810-BA7A-C6C80BA95ED1}|Exercicio_03\\Exercicio_03.csproj|c:\\users\\thiago.gon\\desktop\\trilha_estruturadedados\\trilha_02-exercicio01\\exercicio_03\\exercicio_03\\listaduplamenteencadeada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D614A6-762C-4810-BA7A-C6C80BA95ED1}|Exercicio_03\\Exercicio_03.csproj|solutionrelative:exercicio_03\\listaduplamenteencadeada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_02-Exercicio01\\Exercicio_03\\Exercicio_03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_03\\Program.cs",
+              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_02-Exercicio01\\Exercicio_03\\Exercicio_03\\Program.cs",
+              "RelativeToolTip": "Exercicio_03\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T23:29:50.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaDuplamenteEncadeada.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_02-Exercicio01\\Exercicio_03\\Exercicio_03\\ListaDuplamenteEncadeada.cs",
+              "RelativeDocumentMoniker": "Exercicio_03\\ListaDuplamenteEncadeada.cs",
+              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_02-Exercicio01\\Exercicio_03\\Exercicio_03\\ListaDuplamenteEncadeada.cs",
+              "RelativeToolTip": "Exercicio_03\\ListaDuplamenteEncadeada.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T23:45:56.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

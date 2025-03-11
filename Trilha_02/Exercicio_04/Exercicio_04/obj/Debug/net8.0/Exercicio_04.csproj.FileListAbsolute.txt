@@ -1,0 +1,14 @@
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.exe
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.deps.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.runtimeconfig.json
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\bin\Debug\net8.0\Exercicio_04.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfoInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.AssemblyInfo.cs
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\refint\Exercicio_04.dll
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.pdb
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\Exercicio_04.genruntimeconfig.cache
+C:\Users\thiago.gon\Desktop\Trilha_EstruturaDeDados\Trilha_02-Exercicio01\Exercicio_04\Exercicio_04\obj\Debug\net8.0\ref\Exercicio_04.dll
