@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thiago.gon\\Desktop\\Trilha_EstruturaDeDados\\Trilha_03\\Exercicio_03\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_03\\Exercicio_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1954B5B-619C-4EE1-92CF-3F19A096E53A}|Exercicios_03\\Exercicios_03.csproj|c:\\users\\thiago.gon\\desktop\\projetos_estruturadedados\\trilha_03\\exercicio_03\\exercicios_03\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1954B5B-619C-4EE1-92CF-3F19A096E53A}|Exercicios_03\\Exercicios_03.csproj|solutionrelative:exercicios_03\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1954B5B-619C-4EE1-92CF-3F19A096E53A}|Exercicios_03\\Exercicios_03.csproj|c:\\users\\thiago.gon\\desktop\\projetos_estruturadedados\\trilha_03\\exercicio_03\\exercicios_03\\arvorebinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1954B5B-619C-4EE1-92CF-3F19A096E53A}|Exercicios_03\\Exercicios_03.csproj|solutionrelative:exercicios_03\\arvorebinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "No.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_03\\Exercicio_03\\Exercicios_03\\No.cs",
+              "RelativeDocumentMoniker": "Exercicios_03\\No.cs",
+              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_03\\Exercicio_03\\Exercicios_03\\No.cs",
+              "RelativeToolTip": "Exercicios_03\\No.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:51:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArvoreBinaria.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_03\\Exercicio_03\\Exercicios_03\\ArvoreBinaria.cs",
+              "RelativeDocumentMoniker": "Exercicios_03\\ArvoreBinaria.cs",
+              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_03\\Exercicio_03\\Exercicios_03\\ArvoreBinaria.cs",
+              "RelativeToolTip": "Exercicios_03\\ArvoreBinaria.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:44:19.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
