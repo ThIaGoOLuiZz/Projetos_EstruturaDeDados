@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_04\\Grafos_pt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F345F08-2B9A-47D6-B377-FC22AC7BCC7E}|Grafos_pt2\\Grafos_pt2.csproj|c:\\users\\thiago.gon\\desktop\\projetos_estruturadedados\\trilha_04\\grafos_pt2\\grafos_pt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F345F08-2B9A-47D6-B377-FC22AC7BCC7E}|Grafos_pt2\\Grafos_pt2.csproj|solutionrelative:grafos_pt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_04\\Grafos_pt2\\Grafos_pt2\\Program.cs",
+              "RelativeDocumentMoniker": "Grafos_pt2\\Program.cs",
+              "ToolTip": "C:\\Users\\thiago.gon\\Desktop\\Projetos_EstruturaDeDados\\Trilha_04\\Grafos_pt2\\Grafos_pt2\\Program.cs",
+              "RelativeToolTip": "Grafos_pt2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:42:24.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
